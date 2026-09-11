@@ -26,9 +26,15 @@ Together, these three sources cover the full 2003–2023 period: the Kaggle data
 ## Key Visualizations & Insights
 
 1. **Life expectancy over time (2003–2023)** for Afghanistan, India, United States, Japan, and Brazil — highlights the persistent gap between developed and developing countries.
+
+![Life expectancy over time for selected countries, 2003-2023](images/life-expectancy-over-time.png)
+ 
 2. **Life expectancy vs. immunization rates** (Polio and Diphtheria) — higher immunization rates generally correlate with higher life expectancy.
 3. **Life expectancy vs. schooling** — a clear positive correlation between average years of schooling and life expectancy.
 4. **Average life expectancy by country status** (developed vs. developing) — a consistent, significant gap favoring developed countries across the full period.
+
+![Average life expectancy by country status, 2003-2023](images/avg-life-expectancy-by-status.png)
+
 5. **Life expectancy vs. alcohol consumption** — results were inconclusive, with minimal difference in life expectancy across consumption levels.
 
 ## Tech Stack
