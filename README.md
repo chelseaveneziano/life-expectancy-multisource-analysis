@@ -1,6 +1,3 @@
-# life-expectancy-multisource-analysis
-Multi-source life expectancy analysis (2003-2023) combining a Kaggle dataset, Wikipedia scrape, and WHO API data
-
 # Life Expectancy Multi-Source Analysis (2003–2023)
 
 This project explores the relationship between life expectancy, mortality rates, and immunization rates across countries from 2003 to 2023, combining data from three different source types: a flat file, a scraped website, and a public API.
